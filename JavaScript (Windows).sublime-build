@@ -1,0 +1,5 @@
+{
+   "cmd": ["$packages\\JavaScript\\jsl\\windows\\jsl.exe", "-process", "$file"],
+   "selector": "source.js",
+   "file_regex": "(.*?)\\(([0-9]+?)\\)"
+}

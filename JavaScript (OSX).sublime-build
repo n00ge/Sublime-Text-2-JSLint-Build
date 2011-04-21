@@ -1,0 +1,5 @@
+{
+   "cmd": ["$packages/JavaScript/jsl/osx/jsl", "-process", "$file"],
+   "selector": "source.js",
+   "file_regex": "(.*?)\\(([0-9]+?)\\)"
+}
